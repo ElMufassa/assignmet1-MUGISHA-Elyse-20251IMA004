@@ -37,7 +37,7 @@ ORDER BY o.order_id;
 
 **Output Screenshot:**
 
-![Question 1 Result](screenshots/result1.PNG)
+![Question 1 Result](result1.PNG)
 
 ---
 
@@ -61,7 +61,7 @@ ORDER BY oi.order_item_id;
 
 **Output Screenshot:**
 
-![Question 2 Result](screenshots/result2.PNG)
+![Question 2 Result](result2.PNG)
 
 ---
 
@@ -84,7 +84,7 @@ ORDER BY c.customer_id, o.order_date;
 
 **Output Screenshot:**
 
-![Question 3 Result](screenshots/result3.PNG)
+![Question 3 Result](result3.PNG)
 
 ---
 
@@ -116,7 +116,7 @@ ORDER BY total_spent DESC;
 
 **Output Screenshot:**
 
-![Question 4 Result](screenshots/result4.PNG)
+![Question 4 Result](result4.PNG)
 
 ---
 
@@ -147,7 +147,7 @@ FROM CustomerSpend;
 
 **Output Screenshot:**
 
-![Question 5 Result](screenshots/result5.PNG)
+![Question 5 Result](result5.PNG)
 
 ---
 
@@ -173,7 +173,7 @@ ORDER BY o.customer_id, o.order_date;
 
 **Output Screenshot:**
 
-![Question 6 Result](screenshots/result6.PNG)
+![Question 6 Result](result6.PNG)
 
 ---
 
@@ -206,7 +206,7 @@ ORDER BY order_date, order_id;
 
 **Output Screenshot:**
 
-![Question 7 Result](screenshots/result7.PNG)
+![Question 7 Result](result7.PNG)
 
 ---
 
@@ -243,7 +243,7 @@ ORDER BY customer_id, order_date;
 
 **Output Screenshot:**
 
-![Question 8 Result](screenshots/result8.PNG)
+![Question 8 Result](result8.PNG)
 
 ---
 
