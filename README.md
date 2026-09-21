@@ -343,8 +343,6 @@ assignmet1-MUGISHA-Elyse-20251IMA004/
 ├── README.md
 ├── setup.sql
 ├── queries.sql
-│
-└── screenshots/
     ├── result1.PNG
     ├── result2.PNG
     ├── result3.PNG
