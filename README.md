@@ -341,14 +341,15 @@ A recommended repository structure is:
 assignmet1-MUGISHA-Elyse-20251IMA004/
 │
 ├── README.md
-├── result1.PNG
-├── result2.PNG
-├── result3.PNG
-├── result4.PNG
-├── result5.PNG
-├── result6.PNG
-├── result7.PNG
-└── result8.PNG
+├──screenshoot
+    ├── result1.PNG
+    ├── result2.PNG
+    ├── result3.PNG
+    ├── result4.PNG
+    ├── result5.PNG
+    ├── result6.PNG
+    ├── result7.PNG
+    └── result8.PNG
 ```
 
 ---
